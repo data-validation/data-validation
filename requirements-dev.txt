@@ -1,0 +1,16 @@
+pre-commit
+
+# formatting and linting
+black==21.9b0
+flake8
+isort
+
+# publishing
+twine
+
+# static type checking
+mypy==0.910
+
+# tests
+pytest
+coverage
